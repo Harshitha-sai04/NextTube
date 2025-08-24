@@ -9,6 +9,12 @@ Reproduce core YouTube features—search, playback, related videos—using moder
 ## Live Demo  
 https://<your-netlify-subdomain>.netlify.app
 
+## Live Demo
+
+[![Live Site](https://img.icons8.com/ios-glyphs/30/000000/external-link.png)](https://transcendent-praline-7beb36.netlify.app)  
+[https://transcendent-praline-7beb36.netlify.app](https://transcendent-praline-7beb36.netlify.app)
+
+
 ## Features  
 - Video search with autocomplete  
 - Responsive video player integration (ReactPlayer)  
