@@ -6,9 +6,6 @@ NextTube is a React-based YouTube clone app leveraging the YouTube Data API via 
 ## Project Objective  
 Reproduce core YouTube features—search, playback, related videos—using modern React, React Router, and Material-UI.
 
-## Live Demo  
-https://<your-netlify-subdomain>.netlify.app
-
 ## Live Demo
 
 [![Live Site](https://img.icons8.com/ios-glyphs/30/000000/external-link.png)](https://transcendent-praline-7beb36.netlify.app)  
